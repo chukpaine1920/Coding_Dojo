@@ -1,7 +1,7 @@
 import './App.css';
 import React, {useState} from 'react'
-import Search from './components/Search.jsx'
-import Result from './components/Result.jsx'
+import Search from './components/Search'
+import Result from './components/Result'
 import {Router} from '@reach/router'
 
 function App() {
@@ -22,5 +22,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

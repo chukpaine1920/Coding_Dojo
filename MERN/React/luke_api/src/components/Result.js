@@ -3,7 +3,7 @@ import axios from "axios";
 
 const Result = (props) => {
 
-  const { searchInfo, } = props;
+  const { searchInfo, setSearchInfo } = props;
   const [responseData, setResponseData] = useState('');
   const [responseError, setResponseError] = useState(false);
 
