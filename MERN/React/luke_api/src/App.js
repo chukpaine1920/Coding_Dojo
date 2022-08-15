@@ -1,8 +1,8 @@
 import './App.css';
-import React, {useState} from 'react'
-import Search from './components/Search'
-import Result from './components/Result'
-import {Router} from '@reach/router'
+import React, {useState} from 'react';
+import Search from './components/Search.js';
+import Result from './components/Result.js';
+import {Router} from '@reach/router';
 
 function App() {
 
@@ -22,3 +22,6 @@ function App() {
     </div>
   );
 }
+
+export default App;
+
