@@ -1,0 +1,478 @@
+
+[
+    {
+        "firstName": "Pedro",
+        "lastName": "Leate",
+        "gender": "Female",
+        "address": "1108 Gale Parkway",
+        "gpa": 1.87,
+        "grade": 9,
+        "classes": [
+            "cs103",
+            "cs102",
+            "phys101"
+        ],
+        "scores": [
+            79,
+            62,
+            92,
+            100
+        ]
+    },
+    {
+        "firstName": "Babita",
+        "lastName": "Culham",
+        "gender": "Female",
+        "address": "477 International Drive",
+        "gpa": 1.92,
+        "grade": 10,
+        "classes": [
+            "phys103",
+            "cs101",
+            "ma102"
+        ],
+        "scores": [
+            69,
+            95,
+            61,
+            93
+        ]
+    },
+    {
+        "firstName": "Hedwiga",
+        "lastName": "Enders",
+        "gender": "Female",
+        "address": "0641 Rutledge Court",
+        "gpa": 1.17,
+        "grade": 9,
+        "classes": [
+            "phys101",
+            "phys103",
+            "cs101"
+        ],
+        "scores": [
+            63,
+            74,
+            69,
+            90
+        ]
+    },
+    {
+        "firstName": "Lennard",
+        "lastName": "Fleeman",
+        "gender": "Male",
+        "address": "1969 La Follette Junction",
+        "gpa": 1.87,
+        "grade": 11,
+        "classes": [
+            "cs101",
+            "ma103",
+            "cs102"
+        ],
+        "scores": [
+            86,
+            76,
+            81,
+            75
+        ]
+    },
+    {
+        "firstName": "Shawn",
+        "lastName": "Swatradge",
+        "gender": "Male",
+        "address": "6527 Clemons Parkway",
+        "gpa": 3.25,
+        "grade": 10,
+        "classes": [
+            "cs103",
+            "cs102",
+            "ma103"
+        ],
+        "scores": [
+            81,
+            97,
+            80,
+            65
+        ]
+    },
+    {
+        "firstName": "Chad",
+        "lastName": "Colleford",
+        "gender": "Female",
+        "address": "9 Summer Ridge Pass",
+        "gpa": 2.43,
+        "grade": 8,
+        "classes": [
+            "ma102",
+            "ma101",
+            "ma103"
+        ],
+        "scores": [
+            79,
+            74,
+            62,
+            61
+        ]
+    },
+    {
+        "firstName": "Trude",
+        "lastName": "Vasyukov",
+        "gender": "Female",
+        "address": "04 Lindbergh Alley",
+        "gpa": 1.11,
+        "grade": 8,
+        "classes": [
+            "phys101",
+            "ma102",
+            "cs103"
+        ],
+        "scores": [
+            67,
+            79,
+            64,
+            93
+        ]
+    },
+    {
+        "firstName": "Gottfried",
+        "lastName": "Boath",
+        "gender": "Male",
+        "address": "7 Pleasure Lane",
+        "gpa": 2.07,
+        "grade": 12,
+        "classes": [
+            "ma101",
+            "ma102",
+            "ma103"
+        ],
+        "scores": [
+            90,
+            64,
+            84,
+            88
+        ]
+    },
+    {
+        "firstName": "Bret",
+        "lastName": "Lober",
+        "gender": "Male",
+        "address": "989 Kedzie Parkway",
+        "gpa": 3.49,
+        "grade": 10,
+        "classes": [
+            "ma101",
+            "cs102",
+            "phys102"
+        ],
+        "scores": [
+            81,
+            60,
+            91,
+            75
+        ]
+    },
+    {
+        "firstName": "Nyssa",
+        "lastName": "Haizelden",
+        "gender": "Female",
+        "address": "42 Autumn Leaf Park",
+        "gpa": 1.91,
+        "grade": 9,
+        "classes": [
+            "ma102",
+            "phys103",
+            "cs103"
+        ],
+        "scores": [
+            65,
+            83,
+            79,
+            64
+        ]
+    },
+    {
+        "firstName": "Welbie",
+        "lastName": "Legge",
+        "gender": "Male",
+        "address": "395 Fairfield Park",
+        "gpa": 1.25,
+        "grade": 10,
+        "classes": [
+            "ma103",
+            "cs102",
+            "ma101"
+        ],
+        "scores": [
+            79,
+            76,
+            93,
+            60
+        ]
+    },
+    {
+        "firstName": "Kassi",
+        "lastName": "Bothams",
+        "gender": "Female",
+        "address": "720 Farmco Way",
+        "gpa": 1.68,
+        "grade": 11,
+        "classes": [
+            "cs102",
+            "cs101",
+            "ma101"
+        ],
+        "scores": [
+            71,
+            80,
+            67,
+            71
+        ]
+    },
+    {
+        "firstName": "Annora",
+        "lastName": "Klemensiewicz",
+        "gender": "Female",
+        "address": "6476 Loomis Hill",
+        "gpa": 3.45,
+        "grade": 8,
+        "classes": [
+            "ma101",
+            "phys103",
+            "cs103"
+        ],
+        "scores": [
+            85,
+            92,
+            84,
+            67
+        ]
+    },
+    {
+        "firstName": "Guthrie",
+        "lastName": "Jansky",
+        "gender": "Male",
+        "address": "288 Sommers Pass",
+        "gpa": 2.78,
+        "grade": 8,
+        "classes": [
+            "cs101",
+            "ma102",
+            "cs103"
+        ],
+        "scores": [
+            84,
+            85,
+            76,
+            75
+        ]
+    },
+    {
+        "firstName": "Marion",
+        "lastName": "Clothier",
+        "gender": "Female",
+        "address": "57714 Killdeer Junction",
+        "gpa": 3.23,
+        "grade": 10,
+        "classes": [
+            "ma103",
+            "cs102",
+            "ma102"
+        ],
+        "scores": [
+            63,
+            64,
+            72,
+            80
+        ]
+    },
+    {
+        "firstName": "Maud",
+        "lastName": "Lafoy",
+        "gender": "Female",
+        "address": "9 Superior Crossing",
+        "gpa": 2.9,
+        "grade": 12,
+        "classes": [
+            "ma101",
+            "cs103",
+            "ma102"
+        ],
+        "scores": [
+            67,
+            81,
+            65,
+            87
+        ]
+    },
+    {
+        "firstName": "Margaretta",
+        "lastName": "Beament",
+        "gender": "Female",
+        "address": "8 Claremont Junction",
+        "gpa": 1.01,
+        "grade": 10,
+        "classes": [
+            "ma103",
+            "phys103",
+            "cs103"
+        ],
+        "scores": [
+            91,
+            77,
+            79,
+            75
+        ]
+    },
+    {
+        "firstName": "Tibold",
+        "lastName": "Gencke",
+        "gender": "Male",
+        "address": "28 Mariners Cove Plaza",
+        "gpa": 3.93,
+        "grade": 12,
+        "classes": [
+            "phys101",
+            "cs102",
+            "ma101"
+        ],
+        "scores": [
+            69,
+            73,
+            98,
+            68
+        ]
+    },
+    {
+        "firstName": "Hillard",
+        "lastName": "Meneely",
+        "gender": "Male",
+        "address": "54 Messerschmidt Junction",
+        "gpa": 1.02,
+        "grade": 10,
+        "classes": [
+            "ma103",
+            "cs102",
+            "phys102"
+        ],
+        "scores": [
+            62,
+            82,
+            64,
+            96
+        ]
+    },
+    {
+        "firstName": "Zelda",
+        "lastName": "Minty",
+        "gender": "Female",
+        "address": "6 Loomis Pass",
+        "gpa": 1.63,
+        "grade": 10,
+        "classes": [
+            "cs102",
+            "ma101",
+            "phys102"
+        ],
+        "scores": [
+            75,
+            90,
+            86,
+            64
+        ]
+    },
+    {
+        "firstName": "Saba",
+        "lastName": "Gummery",
+        "gender": "Female",
+        "address": "753 Mcbride Park",
+        "gpa": 3.55,
+        "grade": 10,
+        "classes": [
+            "cs102",
+            "phys102",
+            "ma102"
+        ],
+        "scores": [
+            86,
+            64,
+            66,
+            90
+        ]
+    },
+    {
+        "firstName": "Matt",
+        "lastName": "Letherbury",
+        "gender": "Male",
+        "address": "03 Dixon Pass",
+        "gpa": 1.58,
+        "grade": 12,
+        "classes": [
+            "phys103",
+            "cs102",
+            "ma102"
+        ],
+        "scores": [
+            63,
+            63,
+            61,
+            60
+        ]
+    },
+    {
+        "firstName": "Pedro",
+        "lastName": "McVittie",
+        "gender": "Male",
+        "address": "1 Welch Terrace",
+        "gpa": 3.38,
+        "grade": 8,
+        "classes": [
+            "cs102",
+            "ma101",
+            "ma102"
+        ],
+        "scores": [
+            62,
+            88,
+            65,
+            96
+        ]
+    },
+    {
+        "firstName": "Igor",
+        "lastName": "Cremins",
+        "gender": "Male",
+        "address": "5 Stephen Hill",
+        "gpa": 2.62,
+        "grade": 8,
+        "classes": [
+            "ma103",
+            "cs103",
+            "phys103"
+        ],
+        "scores": [
+            75,
+            97,
+            67,
+            63
+        ]
+    },
+    {
+        "firstName": "Erina",
+        "lastName": "Poulson",
+        "gender": "Female",
+        "address": "19575 Bashford Hill",
+        "gpa": 2.36,
+        "grade": 10,
+        "classes": [
+            "ma102",
+            "cs103",
+            "phys102"
+        ],
+        "scores": [
+            78,
+            66,
+            61,
+            85
+        ]
+    }
+]

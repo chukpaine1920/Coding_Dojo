@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Chad",
+    "home_state": "Kentucky",
+    "lucky_number": 9,
+    "birthday": 
+      {
+        "month": 10,
+        "day": 20,
+        "year": 2001
+      }
+    ,
+    "interests": [
+      "coding",
+      "brunch",
+      "MongoDB"
+    ],
+    "enrolled": "yes"
+  },
+  {
+    "name": "Chris",
+    "home_state": "Ohio",
+    "lucky_number": 23,
+    "birthday": 
+      {
+        "month": 03,
+        "day": 10,
+        "year": 2003
+      }
+    ,
+    "interests": [
+      "coding",
+      "puzzles",
+      "Python"
+    ],
+    "enrolled": "yes"
+  },
+  {
+    "name": "Lisa",
+    "home_state": "California",
+    "lucky_number": 99,
+    "birthday": 
+      {
+        "month": 09,
+        "day": 30,
+        "year": 1998
+      }
+    ,
+    "interests": [
+      "animals",
+      "hiking",
+      "tattoos"
+    ],
+    "enrolled": "yes"
+  },
+  {
+    "name": "Becca",
+    "home_state": "Delaware",
+    "lucky_number": 7,
+    "birthday": 
+      {
+        "month": 12,
+        "day": 20,
+        "year": 2001
+      }
+    ,
+    "interests": [
+      "publishing",
+      "drinking",
+      "partying"
+    ],
+    "enrolled": "yes"
+  }
+]
+
+db.students.updateMany({}, {"$set": {"number_of_belts": 0}}
