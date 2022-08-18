@@ -1,0 +1,18 @@
+{
+  "name": "foodz",
+  "version": "1.0.0",
+  "description": "Get request: \"/api/recipes\": Return all recipes in the database\r Post request: \"/api/recipes\": Create new recipe\r Get request: \"/api/recipes/:id\": Retrieve specific recipe\r Put request: \"/api/recipes/:id\": Update a specific recipe\r Delete request: \"/api/recipes/:id\": Delete a specific recipe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  }
+}
