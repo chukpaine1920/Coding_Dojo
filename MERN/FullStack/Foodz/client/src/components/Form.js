@@ -4,7 +4,9 @@ const Form = props => {
   const { onSubmitHandler, initialTitle, initialOrigin, initialIngredients } = props;
   const [title, setTitle] = useState(initialTitle);
   const [origin, setOrigin] = useState(initialOrigin);
+  const [time, setTime] = useState("");
   const [ingredients, setIngredients] = useState(initialIngredients);
+  const [instructions, setInstructions] = useState("");
   return (
     <form onSubmit={e => {onSubmitHandler(e, { title, origin, ingredients }) }}>
       <p>
@@ -16,8 +18,16 @@ const Form = props => {
         <input type="text"  value={origin} name="origin" onChange={(e) => {setOrigin(e.target.value) }} />
       </p>
       <p>
+        <label>Time</label>
+        <input type="text" name="time" onChange={(e) => {setTime(e.target.value) }} />
+      </p>
+      <p>
         <label>Ingredients</label>
         <input type="text" value={ingredients} name="ingredients" onChange={(e) => {setIngredients(e.target.value) }} />
+      </p>
+      <p>
+        <label>Instructions</label>
+        <input type="text" name="instructions" onChange={(e) => {setInstructions(e.target.value) }} />
       </p>
       <input type="submit" />
     </form>

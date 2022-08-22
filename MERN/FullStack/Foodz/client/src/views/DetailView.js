@@ -17,9 +17,10 @@ const DetailView = props => {
   return (
     <div>
       <h1>{recipe.title}</h1>
-      <p>Origin: {recipe.origin}</p>
-      <p>Ingredients: {recipe.ingredients}</p>
-      <DeleteButton id={recipe._id}/>
+        <p>Origin: {recipe.origin}</p>
+        <p>Time: {recipe.time}</p>
+        <p>Ingredients: {recipe.ingredients}</p>
+        <DeleteButton id={recipe._id}/>
     </div>
   )
 }
